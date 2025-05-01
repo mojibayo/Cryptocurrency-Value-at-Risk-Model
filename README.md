@@ -4,10 +4,10 @@
 
 ## 📊 Portfolio Allocation
 
-- **BTC:** 75%
-- **SOL:** 10%
-- **ETH:** 15%
-- **Portfolio Value:** $100,000
+- **BTC:** `75%`
+- **SOL:** `10%`
+- **ETH:** `15%`
+- **Portfolio Value:** `$100,000`
 
 ## 🧠 Methodology
 
@@ -34,6 +34,7 @@
 2. **Capital Allocation:** Adjust asset weights based on acceptable downside.
 3. **Backtesting:** Compare different portfolio compositions over historical market behavior.
 
+##
 
-- Might add inputs for more flexibility and better UX.
+`Might add inputs for more flexibility and better UX.`
 - vythea ✷
