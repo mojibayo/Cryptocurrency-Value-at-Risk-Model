@@ -33,3 +33,7 @@
 1. **Portfolio Risk Management:** Understand short-term risk in volatile crypto assets.
 2. **Capital Allocation:** Adjust asset weights based on acceptable downside.
 3. **Backtesting:** Compare different portfolio compositions over historical market behavior.
+
+
+- Might add inputs for more flexibility and better UX.
+- vythea ✷
