@@ -40,7 +40,7 @@ log_returns = log_returns.dropna()
 portfolio_value  = 100000
 weights          = np.array([0.75, 0.1, 0.15])
 print(f"\n{info}Pairs Used in Model: BTC-USD, SOL-USD, ETH-USD")
-print(f"{data}Weight/Portfolio Allocation: {weights[0]*100}% {pairs[0]} || {weights[1]*100}% {pairs[1]} || {weights[2]*100}% {pairs[2]}")
+print(f"{ldata}Weight/Portfolio Allocation: {weights[0]*100}% {pairs[0]} || {weights[1]*100}% {pairs[1]} || {weights[2]*100}% {pairs[2]}")
 
 historical_returns  = (log_returns * weights).sum(axis=1)
 
